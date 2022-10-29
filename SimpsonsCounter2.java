@@ -7,7 +7,7 @@ import java.util.Date;
 import java.util.HashMap;
 import java.util.List;
 
-public class Answer2 {
+public class SimpsonsCounter2 {
     private static final int THREAD_COUNT = 3;
     private static final String FILE_NAME = "simpsons_script_lines.csv";
     private static String episode = "";
